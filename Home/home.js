@@ -220,7 +220,7 @@ firebase.auth().onAuthStateChanged(function (user) {
     
   } else {
     // No user is signed in.
-    window.location.href = "file:///D:/html_projects/compile-anywhere/landing.html";
+    window.location.href = "file:///D:/Compile-Companion/Landing/landing.html";
   }
 });
 
@@ -337,7 +337,7 @@ var check = function () {
 };
 
 function programUploadPage(id){
-  window.location.href = "file:///D:/html_projects/compile-anywhere/program_upload.html";
+  window.location.href = "file:///D:/Compile-Companion/Program_upload/program_upload.html";
   window.localStorage.setItem('id', id);
   window.localStorage.setItem('uid', uid);
 }

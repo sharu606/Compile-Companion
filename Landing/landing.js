@@ -21,7 +21,7 @@ firebase.auth().onAuthStateChanged(function(user) {
     if (user) 
     {
       // User is signed in.
-      window.location.href = "file:///D:/html_projects/compile-anywhere/home.html";
+      window.location.href = "file:///D:/Compile-Companion/Home/home.html";
     } 
     else 
     {

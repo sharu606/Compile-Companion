@@ -1,22 +1,22 @@
 @font-face {
-    src: url(Poppins/Poppins-Light.ttf);
+    src: url(../Assets/Font/Poppins/Poppins-Light.ttf);
     font-family: poppins;
 }
 
 @font-face {
-    src: url(Poppins/Poppins-ExtraBold.ttf);
+    src: url(../Assets/Font/Poppins/Poppins-ExtraBold.ttf);
     font-family: poppins_bold;
 }
 
 @font-face {
-    src: url(Montserrat/Montserrat-Light.ttf);
+    src: url(../Assets/Font/Montserrat/Montserrat-Light.ttf);
     font-family: Montserrat;
 }
 
 @import url("/_variables.css");
 
 body {
-    background-image: url("bg.png");
+    background-image: url("../Assets/bg.png");
     background-size: cover;
 }
 

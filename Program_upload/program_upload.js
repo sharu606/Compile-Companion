@@ -241,7 +241,7 @@ $(document).on('click', 'a', function(e) {
 });
 
 function backToList(){
-  window.location.replace("/Users/ketan_priya/Desktop/vsc/compile-anywhere-master/compile-anywhere/home.html");
+  window.location.replace("file:///D:/Compile-Companion/Home/home.html");
 }
 
 function showUp(){
