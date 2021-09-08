@@ -24,9 +24,21 @@ Compile Anywhere is an initiative by students to help peer students to practice 
 * __Design__
   - Figma
   
-<!-- ## Screenshots
-![inCollage_20201116_174306669](https://user-images.githubusercontent.com/54657980/101201537-eaa67c00-368d-11eb-8e2a-f4671ffa86f1.jpg)
-![inCollage_20201116_174612993](https://user-images.githubusercontent.com/54657980/101201542-ed08d600-368d-11eb-8bb1-5589240e50bb.jpg) -->
+## Preview
+### Landing page
+<img src="https://github.com/sharu606/Compile-Companion/blob/main/Screenshots/Screenshot%20(438).png?raw=true" style="height: 200px"> &nbsp;&nbsp; <img src="https://github.com/sharu606/Compile-Companion/blob/main/Screenshots/Screenshot%20(431).png?raw=true" style="height: 200px"> <img src="https://github.com/sharu606/Compile-Companion/blob/main/Screenshots/Screenshot%20(440).png?raw=true" style="height: 200px">
+
+### Home page
+<img src="https://github.com/sharu606/Compile-Companion/blob/main/Screenshots/Screenshot%20(439).png?raw=true" style="height: 200px">
+
+### Profile section
+<img src="https://github.com/sharu606/Compile-Companion/blob/main/Screenshots/Screenshot%20(435).png?raw=true" style="height: 200px">
+
+### Program upload page
+<img src="https://github.com/sharu606/Compile-Companion/blob/main/Screenshots/Screenshot%20(436).png?raw=true" style="height: 200px"> &nbsp;&nbsp; <img src="https://github.com/sharu606/Compile-Companion/blob/main/Screenshots/Screenshot%20(437).png?raw=true" style="height: 200px">
+
+
+
 
 ## Demo Video
 https://youtu.be/awMQznrgLQc
